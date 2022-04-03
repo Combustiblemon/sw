@@ -14,7 +14,7 @@
 | 4 | Άσκηση γραμμής εντολών | [Συζήτηση](https://github.com/courses-ionio/help/discussions/369)| |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | [Συζήτηση](https://github.com/courses-ionio/help/discussions/448) | - |
 | 6 | Άσκηση γραμμής εντολών | [Συζήτηση](https://github.com/courses-ionio/help/discussions/491) | - |
-| 7 | βιογραφικό | | |
+| 7 | βιογραφικό | [Συζήτηση](https://github.com/courses-ionio/help/discussions/529) | - |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
 | 9 | Άσκηση γραμμής εντολών | | |
 | 10 | συμμετοχικό περιεχόμενο B1+B2 | | |
